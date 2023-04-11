@@ -19,9 +19,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Guillaume Daudin’s variant for "The Campaings of Napoleon"
+title: Guillaume Daudin’s game site
 email: gdaudin@mac.com
-description: You will find here information about my variant for "The Campaigns of Napoleon"
+description: You will find here information about my gaming activities
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
